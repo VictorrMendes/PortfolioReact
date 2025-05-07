@@ -1,0 +1,109 @@
+import pexus
+
+.habilidade {
+    width: 100%;
+    margin-bottom: 20%;
+
+}
+
+/* #skills {
+    margin-top: 10%;
+    background-image: url(/imagens/pexeus.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+} */
+
+.habilidade h2 {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.skills-list {
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+}
+
+.skill {
+    margin: 0 20px;
+    text-align: center;
+}
+
+.skill img {
+    max-width: 50px;
+    margin-bottom: 10px;
+}
+
+.bar {
+    overflow: hidden;
+    position: relative;
+}
+
+.progress_base {
+    width: 80px;
+    height: 5px;
+    background-color: #ddd;
+    bottom: 0;
+    left: 0;
+}
+
+.progress_html {
+    width: 0%;
+    height: 5px;
+    background-color: #425bca;
+    animation: progress-bar-html 5s infinite forwards;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.progress_css {
+    width: 0%;
+    height: 5px;
+    background-color: #425bca;
+    animation: progress-bar-css 5s infinite forwards;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.progress_js {
+    width: 0%;
+    height: 5px;
+    background-color: #425bca;
+    animation: progress-bar-js 5s infinite forwards;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.progress_vs {
+    width: 0%;
+    height: 5px;
+    background-color: #425bca;
+    animation: progress-bar-vs 5s infinite forwards;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.progress_gt {
+    width: 0%;
+    height: 5px;
+    background-color: #425bca;
+    animation: progress-bar-gt 5s infinite forwards;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.progress_excell {
+    width: 0%;
+    height: 5px;
+    background-color: #425bca;
+    animation: progress-bar-excell 5s infinite forwards;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}

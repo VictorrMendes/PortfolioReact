@@ -1,0 +1,25 @@
+@keyframes pular {
+    0% {
+        transform: translateY(7%);
+    }
+
+    50% {
+        transform: translateY(-2%);
+    }
+
+    100% {
+        transform: translateY(7%);
+    }
+}
+
+@keyframes animaMarcador {
+    50% {
+        border-right: transparent;
+    }
+}
+
+@keyframes animatext {
+    0% {
+        width: 0;
+    }
+}

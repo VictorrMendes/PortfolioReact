@@ -1,0 +1,37 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-image: linear-gradient(179deg, rgb(39 36 36 / 93%), #1c1c1c);
+    
+}
+/* nome */
+.nome{
+    color: #622edb;
+    font-weight: bold;
+    font-size: 1.3rem;
+    font-family: monospace;
+    margin: 0 5%;
+    white-space: nowrap;
+    width: 19.5ch;
+    overflow: hidden;
+    border-right: 4px solid;
+    animation: animaMarcador 0.8s linear infinite, animatext steps(13) 4s;
+}
+
+/* menu */
+.menu ul{
+    margin-right: 50px;
+    display: flex;
+    list-style: none;
+    
+}
+.menu li{
+    
+    padding: 10px;
+}
+.menu a{
+    text-decoration: none;
+    color: #fff;
+}
