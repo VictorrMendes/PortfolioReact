@@ -1,10 +1,19 @@
 .navBar{
+    position: fixed;
+    top: 0;
+    z-index: 15;
+
+    width: 100%;
+}
+
+
+.navBar-container{
+    height: 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 0 5px;
     background-image: linear-gradient(179deg, rgb(39 36 36 / 93%), #1c1c1c);
-    
 }
 /* nome */
 .nome{
@@ -16,7 +25,7 @@
     white-space: nowrap;
     width: 19.5ch;
     overflow: hidden;
-    border-right: 4px solid;
+    border-right: 2px solid;
     animation: animaMarcador 0.8s linear infinite, animatext steps(13) 4s;
 }
 

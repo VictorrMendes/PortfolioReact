@@ -2,7 +2,7 @@ import './About.css'
 
 const About = () => {
     return (
-        <section>
+        <section id="sobre">
             <div className='container'>
                 <div className='about'>
                     <h1>Sobre</h1>
@@ -49,13 +49,13 @@ const About = () => {
                 <div className='card'>
                     <img src='/imagens/perfil_redonda.jpg' alt='Minha foto' />
                     <p>Victor Mendes</p>
-                    <div class="social-links">
-                        <a href="https://github.com/VictorrMendes" id="github" class="social-link"><i
-                            class="fa-brands fa-github"></i></a>
+                    <div className="social-links">
+                        <a href="https://github.com/VictorrMendes" id="github" className="social-link"><i
+                            className="fa-brands fa-github"></i></a>
                         <a href="https://www.linkedin.com/in/victor-mendes-de-souza-728270234/" id="linkedin"
-                            class="social-link"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="tel:+5531998186472" class="social-link"><i id="whatsapp"
-                            class="fa-brands fa-whatsapp"></i></a>
+                            className="social-link"><i className="fab fa-linkedin-in"></i></a>
+                        <a href="tel:+5531998186472" className="social-link"><i id="whatsapp"
+                            className="fa-brands fa-whatsapp"></i></a>
                     </div>
                 </div>
 
