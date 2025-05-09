@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './NavBar.css'
 import './keyframe.css'
 
@@ -22,6 +23,9 @@ const NavBar = () => {
                         </li>
                         <li>
                             <a href='#contato'>Contato</a>
+                        </li>
+                        <li>
+                            <Link to="/uploads">Uploads</Link>
                         </li>
                     </ul>
                 </div>

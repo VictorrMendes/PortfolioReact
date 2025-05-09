@@ -8,7 +8,7 @@ function Projects() {
     useEffect(() => {
         async function fetchData() {
             try {
-                const response = await fetch('https://honest-groups-tap.loca.lt/projects/');
+                const response = await fetch('https://victorrmendes.pythonanywhere.com/projects/');
                 const data = await response.json();
                 setProjects(data);
             } catch (error) {
