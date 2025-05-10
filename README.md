@@ -6,7 +6,7 @@
 Bem-vindo ao meu portfólio! Sou Victor Mendes de Souza, um entusiasta da tecnologia com experiência em desenvolvimento de softwares, aplicações web, automação de processos e análise de dados. Minha trajetória é marcada pela busca constante por aprendizado e pela dedicação em criar soluções eficientes e inovadoras. Aqui, você encontrará projetos que refletem meu compromisso com a qualidade e minha paixão por resolver desafios. Sinta-se à vontade para explorar e conhecer mais sobre meu trabalho!
 
 ### ![retomar](https://github.com/user-attachments/assets/da6450dd-bc45-420f-9b01-f311f49231c9) Portfólio:
-*  [Portfólio](https://victor-mendes.netlify.app)
+*  [Portfólio](https://portfolio-react-umber-zeta.vercel.app/)
   
 ###  ![linkedin](https://github.com/user-attachments/assets/ba6279a0-e80b-4766-a5e8-719013c9574c) LinkedIn:
 *  [Victor Mendes](https://www.linkedin.com/in/victor-mendes-de-souza-728270234/)
