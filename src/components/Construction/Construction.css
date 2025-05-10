@@ -1,0 +1,11 @@
+.construction{
+    font-family: serif;
+}
+
+.link{
+    text-decoration: none;
+    color: #9760ff;
+    border: rgba(59, 57, 57, 0.829) 4px solid;
+    padding: 0 20px;
+    font-size: 1.3rem;
+}

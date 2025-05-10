@@ -20,7 +20,7 @@ const Introduction = () => {
                         </br>
                     </p>
                     <button className='btn'>
-                        <a href='/documents/Currículo Victor Mendes_Programação.pdf'>Baixar Currículo</a>
+                        <a href='/documents/Currículo Victor Mendes_Desenvolvedor.pdf'>Baixar Currículo</a>
                     </button>
 
                 </div>

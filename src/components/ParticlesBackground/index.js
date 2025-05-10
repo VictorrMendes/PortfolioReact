@@ -14,10 +14,10 @@ const ParticlesBackground = () => {
                 window.particlesJS(particlesContainerRef.current.id, {
                     particles: {
                         number: {
-                            value: 147,
+                            value: 267,
                             density: {
                                 enable: true,
-                                value_area: 1499,
+                                value_area: 1399,
                             },
                         },
                         color: { value: "#ffffff" },
